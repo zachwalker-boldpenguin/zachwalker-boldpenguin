@@ -10,7 +10,7 @@
 
 <div align="center">
 <p>🐾 <strong>Pets:</strong> Basset Hound, two black cats</p>
-<p>🎸 <strong>Guitar:</strong> Taking lessons — learning new songs</p>
+<p>🎸 <strong>Guitar:</strong> Taking lessons, still not good</p>
 <p>🏋️‍♂️ <strong>Fitness:</strong> Lifts weights (5/3/1 program)</p>
 </div>
 
