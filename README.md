@@ -7,11 +7,14 @@
 <p align="center"><strong>Team:</strong> Digital Brokerage • <strong>Project:</strong> Onboarding</p>
 
 <h2 align="center">Fun facts</h2>
-<ul>
-  <li>Pets: Basset Hound, two black cats</li>
-  <li>takes guitar lessons</li>
-  <li>lifts weights (5/3/1)</li>
-</ul>
+
+<div align="center">
+
+- Pets: Basset Hound, two black cats
+- takes guitar lessons
+- lifts weights (5/3/1)
+
+</div>
 
 <h2 align="center">Thanks for visiting my profile</h2>
 
