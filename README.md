@@ -9,11 +9,9 @@
 <h2 align="center">Fun facts</h2>
 
 <div align="center">
-<ul style="list-style: none; padding: 0; margin: 0; display: inline-block; text-align: left;">
-  <li style="margin: 6px 0;">🐾 <strong>Pets:</strong> Basset Hound, two black cats</li>
-  <li style="margin: 6px 0;">🎸 <strong>Guitar:</strong> Taking lessons — learning new songs</li>
-  <li style="margin: 6px 0;">🏋️‍♂️ <strong>Fitness:</strong> Lifts weights (5/3/1 program)</li>
-</ul>
+<p>🐾 <strong>Pets:</strong> Basset Hound, two black cats</p>
+<p>🎸 <strong>Guitar:</strong> Taking lessons — learning new songs</p>
+<p>🏋️‍♂️ <strong>Fitness:</strong> Lifts weights (5/3/1 program)</p>
 </div>
 
 <h2 align="center">Thanks for visiting my profile</h2>
