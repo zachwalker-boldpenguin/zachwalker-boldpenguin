@@ -1,32 +1,20 @@
-# Hello! 🙋🏻‍♂️ I'm Zach Walker
-<p><strong>Senior Software Engineer with Bold Penguin  🐧</strong></p>
-<sup>ℹ️ He/Him</sup>
-<br>
-<sup>📅 since 08/19/2026</sup>
+<h1 align="center">Hello! 🙋🏻‍♂️ I'm Zach Walker</h1>
 
-## Current Work 💼
-#### Team: **Digital Brokerage**
-#### Project: **Onboarding**
+<p align="center"><strong>Senior Software Engineer with Bold Penguin 🐧</strong></p>
+<p align="center">ℹ️ He/Him • 📅 since 08/19/2026</p>
 
-## Fun facts
-- Pets: Basset Hound, two black cats
-- takes guitar lessons
-- lifts weights (5/3/1)
+<h2 align="center">Current Work 💼</h2>
+<p align="center"><strong>Team:</strong> Digital Brokerage • <strong>Project:</strong> Onboarding</p>
 
-## Thanks for visiting my profile 
+<h2 align="center">Fun facts</h2>
+<ul>
+  <li>Pets: Basset Hound, two black cats</li>
+  <li>takes guitar lessons</li>
+  <li>lifts weights (5/3/1)</li>
+</ul>
 
-![happy feet dancing penguin](https://media1.tenor.com/m/n7yt3LejI90AAAAd/symour-happy-feet.gif)
-<!--
-**zachwalker-boldpenguin/zachwalker-boldpenguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Thanks for visiting my profile</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://media1.tenor.com/m/n7yt3LejI90AAAAd/symour-happy-feet.gif" alt="happy feet dancing penguin">
+</p>
