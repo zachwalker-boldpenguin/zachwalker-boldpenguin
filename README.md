@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 🙋🏻‍♂️ I'm Zach Walker</h1>
 
 <p align="center"><strong>Senior Software Engineer with Bold Penguin 🐧</strong></p>
-<p align="center">ℹ️ He/Him • 📅 since 08/19/2026</p>
+<p align="center">ℹ️ He/Him • 📅 Start date: 08/19/2026</p>
 
 <h2 align="center">Current Work 💼</h2>
 <p align="center"><strong>Team:</strong> Digital Brokerage • <strong>Project:</strong> Onboarding</p>
