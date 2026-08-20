@@ -2,7 +2,7 @@
 <p><strong>Senior Software Engineer with Bold Penguin  🐧</strong></p>
 <sup>ℹ️ He/Him</sup>
 <br>
-<sup>📅 since 08/29/2026</sup>
+<sup>📅 since 08/19/2026</sup>
 
 ## Current Work 💼
 #### Team: **Digital Brokerage**
